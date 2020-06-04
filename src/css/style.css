@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700");
 
 :root{
-	--logo: url(../assets/img/logo.svg);
-	--check-in_blue-soft: url(../assets/img/icons/check-in_blue-soft.svg);
-	--check-in_purple: url(../assets/img/icons/check-in_purple.svg);
+	--logo: url(../img/logo.svg);
+	--check-in_blue-soft: url(../img/icons/check-in_blue-soft.svg);
+	--check-in_purple: url(../img/icons/check-in_purple.svg);
 	--color-black: #15172E;
 	--color-grey-dark: #222444;
 	--color-grey-normal: #454765;
