@@ -55,7 +55,31 @@ body.brand__blue-dark{
 	color: white;
 }
 body.brand__blue-dark ul.list__check-in li {
-	list-style-image: var(--check-in_purple); 
+	list-style-image: var(--check-in_blue-light); 
+}
+
+body.brand__blue-dark-2{
+	background: var(--color-blue-dark);
+	color: white;
+}
+body.brand__blue-dark-2 ul.list__check-in li {
+	list-style-image: var(--check-in_purple-dark); 
+}
+
+body.brand__purple-dark{
+	background: var(--color-purple-dark);
+	color: white;
+}
+body.brand__purple-dark ul.list__check-in li {
+	list-style-image: var(--check-in_orange); 
+}
+
+body.brand__blue{
+	background: var(--color-blue);
+	color: white;
+}
+body.brand__blue ul.list__check-in li {
+	list-style-image: var(--check-in_red); 
 }
 
 .brand__logo {
