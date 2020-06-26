@@ -2,8 +2,12 @@
 
 :root{
 	--logo: url(../img/logo.svg);
+	--check-in_blue-light: url(../img/icons/check-in_blue-light.svg);
 	--check-in_blue-soft: url(../img/icons/check-in_blue-soft.svg);
 	--check-in_purple: url(../img/icons/check-in_purple.svg);
+	--check-in_purple-dark: url(../img/icons/check-in_purple-dark.svg);
+	--check-in_orange: url(../img/icons/check-in_orange.svg);
+	--check-in_red: url(../img/icons/check-in_red.svg);
 	--color-black: #15172E;
 	--color-grey-dark: #222444;
 	--color-grey-normal: #454765;
